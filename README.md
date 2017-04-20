@@ -1,6 +1,6 @@
 # rbxpm-directory
 
-> A Roblox Package Manager package directory
+Proof of concept package directory for [RPM](https://www.roblox.com/library/742132565/Roblox-Package-Manager).
 
 ## Build Setup
 
@@ -15,4 +15,3 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
