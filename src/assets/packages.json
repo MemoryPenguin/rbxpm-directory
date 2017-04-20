@@ -1,0 +1,29 @@
+[
+	{
+		"packageName": "test-package",
+		"packageAuthor": {
+			"name": "MemoryPenguin",
+			"url": "https://github.com/MemoryPenguin/"
+		},
+		"packageDescription": "A testing package.",
+		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+	},
+	{
+		"packageName": "test-package-2",
+		"packageAuthor": {
+			"name": "MemoryPenguin",
+			"url": "https://github.com/MemoryPenguin/"
+		},
+		"packageDescription": "A testing package. Number two.",
+		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+	},
+	{
+		"packageName": "test-package-3",
+		"packageAuthor": {
+			"name": "MemoryPenguin",
+			"url": "https://github.com/MemoryPenguin/"
+		},
+		"packageDescription": "A testing package. Number three.",
+		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+	}
+]
