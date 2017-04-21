@@ -25,5 +25,32 @@
 		},
 		"packageDescription": "A testing package. Number three.",
 		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+	},
+	{
+		"packageName": "test-package-4",
+		"packageAuthor": {
+			"name": "MemoryPenguin",
+			"url": "https://github.com/MemoryPenguin/"
+		},
+		"packageDescription": "A testing package. Number four.",
+		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+	},
+	{
+		"packageName": "test-package-5",
+		"packageAuthor": {
+			"name": "MemoryPenguin",
+			"url": "https://github.com/MemoryPenguin/"
+		},
+		"packageDescription": "A testing package. Number five.",
+		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+	},
+	{
+		"packageName": "test-package-6",
+		"packageAuthor": {
+			"name": "MemoryPenguin",
+			"url": "https://github.com/MemoryPenguin/"
+		},
+		"packageDescription": "A testing package. Number six.",
+		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
 	}
 ]
