@@ -33,11 +33,30 @@ for (let i = 0; i < packages.length; i++) {
 	packages[i]["id"] = i;
 }
 
+let sortedPackages = packages.slice().sort(function(a, b) {
+	if (a.packageName == b.packageName) {
+		if (a.packageAuthor.name < b.packageAuthor.name) {
+			return -1;
+		}
+		else if (a.packageAuthor.name > b.packageAuthor.name) {
+			return 1;
+		}
+	}
+	else if (a.packageName < b.packageName) {
+		return -1;
+	}
+	else if (a.packageName > b.packageName) {
+		return 1;
+	}
+
+	return 0;
+});
+
 export default {
 	name: 'app',
 	data() {
 		return {
-			packages: packages,
+			packages: sortedPackages,
 			searchText: ''
 		}
 	},

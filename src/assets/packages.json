@@ -9,48 +9,39 @@
 		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
 	},
 	{
-		"packageName": "test-package-2",
+		"packageName": "events",
 		"packageAuthor": {
-			"name": "MemoryPenguin",
-			"url": "https://github.com/MemoryPenguin/"
+			"name": "BradSharp",
+			"url": "https://github.com/BradSharp"
 		},
-		"packageDescription": "A testing package. Number two.",
-		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+		"packageDescription": "A pure Lua event implementation.",
+		"packageUrl": "https://github.com/BradSharp/rpm/tree/master/events"
 	},
 	{
-		"packageName": "test-package-3",
+		"packageName": "fs",
 		"packageAuthor": {
-			"name": "MemoryPenguin",
-			"url": "https://github.com/MemoryPenguin/"
+			"name": "BradSharp",
+			"url": "https://github.com/BradSharp"
 		},
-		"packageDescription": "A testing package. Number three.",
-		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+		"packageDescription": "Allows navigation of the game hierarchy using a file path format.",
+		"packageUrl": "https://github.com/BradSharp/rpm/tree/master/fs"
 	},
 	{
-		"packageName": "test-package-4",
+		"packageName": "sockets",
 		"packageAuthor": {
-			"name": "MemoryPenguin",
-			"url": "https://github.com/MemoryPenguin/"
+			"name": "BradSharp",
+			"url": "https://github.com/BradSharp"
 		},
-		"packageDescription": "A testing package. Number four.",
-		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+		"packageDescription": "An alternate method of client-server communication.",
+		"packageUrl": "https://github.com/BradSharp/roblox/tree/master/sockets"
 	},
 	{
-		"packageName": "test-package-5",
+		"packageName": "luna",
 		"packageAuthor": {
-			"name": "MemoryPenguin",
-			"url": "https://github.com/MemoryPenguin/"
+			"name": "BradSharp",
+			"url": "https://github.com/BradSharp"
 		},
-		"packageDescription": "A testing package. Number five.",
-		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
-	},
-	{
-		"packageName": "test-package-6",
-		"packageAuthor": {
-			"name": "MemoryPenguin",
-			"url": "https://github.com/MemoryPenguin/"
-		},
-		"packageDescription": "A testing package. Number six.",
-		"packageUrl": "https://github.com/MemoryPenguin/TestRepository/"
+		"packageDescription": "Beautiful object orientation for Lua.",
+		"packageUrl": "https://github.com/BradSharp/luna"
 	}
 ]
